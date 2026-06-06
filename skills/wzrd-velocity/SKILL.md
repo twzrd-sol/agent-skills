@@ -176,7 +176,7 @@ The earn flow: authenticate with Ed25519 challenge/verify, pick a model via the
 momentum API, run inference through the server-witnessed endpoint, report the
 result, and claim rewards via gasless relay.
 
-Full earn documentation: https://github.com/twzrd-sol/wzrd-velocity
+Full earn documentation: https://api.twzrd.xyz/v1/signals/momentum
 
 ## Verification
 
